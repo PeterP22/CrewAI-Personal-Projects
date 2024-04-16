@@ -1,0 +1,29 @@
+1. **Title**: The impact of artificial intelligence on employment: the role of virtual
+   **Author**: [Not specified in snippet]
+   **Publication Information**: Nature.com, 2024
+   **Link**: [https://www.nature.com/articles/s41599-024-02647-9](https://www.nature.com/articles/s41599-024-02647-9)
+   **Description**: This article discusses how AI and machines increase labor productivity by automating routine tasks while expanding employee skills and increasing the value of work.
+
+2. **Title**: Toward understanding the impact of artificial intelligence on labor
+   **Author**: [Not specified in snippet]
+   **Publication Information**: NCBI, PMC6452673
+   **Link**: [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452673/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6452673/)
+   **Description**: This paper explores the potential disruptions caused by rapid advances in AI and automation technologies on labor markets.
+
+3. **Title**: The Effects of Artificial Intelligence on the Job Market
+   **Author**: [Not specified in snippet]
+   **Publication Information**: Research Archive
+   **Link**: [https://research-archive.org/index.php/rars/preprint/view/880](https://research-archive.org/index.php/rars/preprint/view/880)
+   **Description**: This research discusses the general trend where AI causes a job deficit in the short term but increases productivity and job opportunities in the long run.
+
+4. **Title**: The Impact of Artificial Intelligence on the Labor Market
+   **Author**: Michael Webb
+   **Publication Information**: [Not specified in snippet]
+   **Link**: [https://www.michaelwebb.co/webb_ai.pdf](https://www.michaelwebb.co/webb_ai.pdf)
+   **Description**: This paper studies the relationship between the adoption of particular technologies and labor market impacts, focusing on AI.
+
+5. **Title**: AI and the labor market
+   **Author**: National Bureau of Economic Research
+   **Publication Information**: NBER Working Paper No. 28257
+   **Link**: [https://www.nber.org/system/files/working_papers/w28257/w28257.pdf](https://www.nber.org/system/files/working_papers/w28257/w28257.pdf)
+   **Description**: This working paper builds on previous research on the effects of new digital technologies on workers and wages, providing insights into AI's specific impacts on the labor market.
